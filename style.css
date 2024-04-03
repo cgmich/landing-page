@@ -1,5 +1,6 @@
 body {
     font-family: Helvetica;
+    margin: 0;
 }
 
 .header {
@@ -99,6 +100,10 @@ a {
     padding-top: 30px;
 }
 
+.images ul {
+    padding-left: 0;
+}
+
 
 .third {
     padding-bottom: 90px;
@@ -167,7 +172,7 @@ div p {
     margin: 0;
 }
 
-.sixth {
+footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
